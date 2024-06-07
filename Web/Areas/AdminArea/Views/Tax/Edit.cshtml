@@ -1,0 +1,43 @@
+﻿  @model Tax
+
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Edit Tax</h4>
+        <form class="form-sample row g-3" asp-action="Edit" method="post"asp-controller="Tax">
+
+            <input type="hidden" asp-for="TaxId" />
+
+            <div class="col-12 ">
+                <label class=" form-label">CGSTRate</label>
+
+                <input asp-for="CGSTRate" class="form-control" />
+                <span asp-validation-for="CGSTRate" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 ">
+                <label class=" form-label">SGSTRate</label>
+
+                <input asp-for="SGSTRate" class="form-control" />
+                <span asp-validation-for="SGSTRate" class="text-danger"></span>
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">IGSTRate</label>
+
+                <input asp-for="IGSTRate" class="form-control" />
+                <span asp-validation-for="IGSTRate" class="text-danger"></span>
+            </div>
+            v <div class="col-12 ">
+                <label class=" form-label">HSNSACNo</label>
+
+                <input asp-for="HSNSACNo" class="form-control" />
+                <span asp-validation-for="HSNSACNo" class="text-danger"></span>
+            </div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Update</button>
+            </div>
+        </form>
+        <a class="btn btn-primary" asp-action="Index"> Back To List </a>
+    </div>
+</div>
+

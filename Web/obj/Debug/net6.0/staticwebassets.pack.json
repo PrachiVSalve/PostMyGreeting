@@ -1,0 +1,1221 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\Backend\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\css\\style.css",
+      "PackagePath": "staticwebassets\\Backend\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\Backend\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\Backend\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Backend\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Backend\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Backend\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Backend\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Backend\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\js\\template.js",
+      "PackagePath": "staticwebassets\\Backend\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\Backend\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\Backend\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\Backend\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\Backend\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\Backend\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Backend\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\Backend\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Backend\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\css\\style.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\css\\style1.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\Picture1.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\Picture1.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\backgroundimage.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\backgroundimage.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\baner-1.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\baner-1.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\banner-fruits.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\banner-fruits.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\best-product-1.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\best-product-1.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\best-product-2.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\best-product-2.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\best-product-3.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\best-product-3.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\best-product-4.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\best-product-4.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\best-product-5.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\best-product-5.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\best-product-6.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\best-product-6.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\featur-2.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\featur-2.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\featur-3.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\featur-3.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\fruite-item-1.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\fruite-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\fruite-item-2.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\fruite-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\fruite-item-3.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\fruite-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\fruite-item-4.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\fruite-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\fruite-item-5.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\fruite-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\fruite-item-6.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\fruite-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\payment.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\payment.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\single-item.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\single-item.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\vegetable-item-1.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\vegetable-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\vegetable-item-2.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\vegetable-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\vegetable-item-3.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\vegetable-item-3.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\vegetable-item-4.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\vegetable-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\vegetable-item-5.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\vegetable-item-5.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\img\\vegetable-item-6.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\img\\vegetable-item-6.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\js\\main.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\FrontEnd\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\FrontEnd\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\BirthdayCard.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\BirthdayCard.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\Car.jpg",
+      "PackagePath": "staticwebassets\\GiftImages\\Car.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\ElephantSoftPillow.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\ElephantSoftPillow.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\HampersChocolates.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\HampersChocolates.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\Mom-photo-frame.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\Mom-photo-frame.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\MothersdayCard.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\MothersdayCard.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\Penguin.jpg",
+      "PackagePath": "staticwebassets\\GiftImages\\Penguin.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\Photo Tree.jpg",
+      "PackagePath": "staticwebassets\\GiftImages\\Photo Tree.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\RemotControlHelicaptor.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\RemotControlHelicaptor.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\RemoteControlCar.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\RemoteControlCar.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\chocolate-cake.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\chocolate-cake.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\chocolatey.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\chocolatey.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\cushion.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\cushion.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\download.jfif",
+      "PackagePath": "staticwebassets\\GiftImages\\download.jfif"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\eston sofa.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\eston sofa.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\full-of-qualities-personalised.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\full-of-qualities-personalised.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\greetingimage1.jfif",
+      "PackagePath": "staticwebassets\\GiftImages\\greetingimage1.jfif"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\images (1).jfif",
+      "PackagePath": "staticwebassets\\GiftImages\\images (1).jfif"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\lk.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\lk.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\money-plant1.jpg",
+      "PackagePath": "staticwebassets\\GiftImages\\money-plant1.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GiftImages\\wooden plaque.webp",
+      "PackagePath": "staticwebassets\\GiftImages\\wooden plaque.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GreetingImages\\AnniversaryCard.webp",
+      "PackagePath": "staticwebassets\\GreetingImages\\AnniversaryCard.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GreetingImages\\AnniversaryCard1.jpg",
+      "PackagePath": "staticwebassets\\GreetingImages\\AnniversaryCard1.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GreetingImages\\AnniversaryCard2.png",
+      "PackagePath": "staticwebassets\\GreetingImages\\AnniversaryCard2.png"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GreetingImages\\BirthdayCard.webp",
+      "PackagePath": "staticwebassets\\GreetingImages\\BirthdayCard.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GreetingImages\\Handmade-Mothers-Day-Card.jpg",
+      "PackagePath": "staticwebassets\\GreetingImages\\Handmade-Mothers-Day-Card.jpg"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GreetingImages\\MothersdayCard.webp",
+      "PackagePath": "staticwebassets\\GreetingImages\\MothersdayCard.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\GreetingImages\\wooden plaque.webp",
+      "PackagePath": "staticwebassets\\GreetingImages\\wooden plaque.webp"
+    },
+    {
+      "Id": "C:\\Prachi\\PostMyGreeting -2-6-24\\Web\\wwwroot\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Web.props",
+      "PackagePath": "build\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Web.props",
+      "PackagePath": "buildMultiTargeting\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Web.props",
+      "PackagePath": "buildTransitive\\Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

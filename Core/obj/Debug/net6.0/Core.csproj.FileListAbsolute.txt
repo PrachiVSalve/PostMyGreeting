@@ -1,0 +1,171 @@
+C:\prachi Salave\Final\PostMyGreeting\Core\bin\Debug\net6.0\Core.deps.json
+C:\prachi Salave\Final\PostMyGreeting\Core\bin\Debug\net6.0\Core.dll
+C:\prachi Salave\Final\PostMyGreeting\Core\bin\Debug\net6.0\Core.pdb
+C:\prachi Salave\Final\PostMyGreeting\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\prachi Salave\Final\PostMyGreeting\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\prachi Salave\Final\PostMyGreeting\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\prachi Salave\Final\PostMyGreeting\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\prachi Salave\Final\PostMyGreeting\Core\obj\Debug\net6.0\Core.dll
+C:\prachi Salave\Final\PostMyGreeting\Core\obj\Debug\net6.0\refint\Core.dll
+C:\prachi Salave\Final\PostMyGreeting\Core\obj\Debug\net6.0\Core.pdb
+C:\prachi Salave\Final\PostMyGreeting\Core\obj\Debug\net6.0\ref\Core.dll
+C:\abc\PostMyGreeting\Core\bin\Debug\net6.0\Core.deps.json
+C:\abc\PostMyGreeting\Core\bin\Debug\net6.0\Core.dll
+C:\abc\PostMyGreeting\Core\bin\Debug\net6.0\Core.pdb
+C:\abc\PostMyGreeting\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\abc\PostMyGreeting\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\abc\PostMyGreeting\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\abc\PostMyGreeting\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\abc\PostMyGreeting\Core\obj\Debug\net6.0\Core.dll
+C:\abc\PostMyGreeting\Core\obj\Debug\net6.0\refint\Core.dll
+C:\abc\PostMyGreeting\Core\obj\Debug\net6.0\Core.pdb
+C:\abc\PostMyGreeting\Core\obj\Debug\net6.0\ref\Core.dll
+C:\abc\ProjectMigration\Core\bin\Debug\net6.0\Core.deps.json
+C:\abc\ProjectMigration\Core\bin\Debug\net6.0\Core.dll
+C:\abc\ProjectMigration\Core\bin\Debug\net6.0\Core.pdb
+C:\abc\ProjectMigration\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\abc\ProjectMigration\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\abc\ProjectMigration\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\abc\ProjectMigration\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\abc\ProjectMigration\Core\obj\Debug\net6.0\Core.dll
+C:\abc\ProjectMigration\Core\obj\Debug\net6.0\refint\Core.dll
+C:\abc\ProjectMigration\Core\obj\Debug\net6.0\Core.pdb
+C:\abc\ProjectMigration\Core\obj\Debug\net6.0\ref\Core.dll
+C:\abc\MigrationError\Core\bin\Debug\net6.0\Core.deps.json
+C:\abc\MigrationError\Core\bin\Debug\net6.0\Core.dll
+C:\abc\MigrationError\Core\bin\Debug\net6.0\Core.pdb
+C:\abc\MigrationError\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\abc\MigrationError\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\abc\MigrationError\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\abc\MigrationError\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\abc\MigrationError\Core\obj\Debug\net6.0\Core.dll
+C:\abc\MigrationError\Core\obj\Debug\net6.0\refint\Core.dll
+C:\abc\MigrationError\Core\obj\Debug\net6.0\Core.pdb
+C:\abc\MigrationError\Core\obj\Debug\net6.0\ref\Core.dll
+C:\abc\PostMyGreeting-Store23-4-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\abc\PostMyGreeting-Store23-4-24\Core\bin\Debug\net6.0\Core.dll
+C:\abc\PostMyGreeting-Store23-4-24\Core\bin\Debug\net6.0\Core.pdb
+C:\abc\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\abc\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\abc\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\abc\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\abc\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.dll
+C:\abc\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\abc\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.pdb
+C:\abc\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Store23-4-24\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Store24-4-24\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Store25-4-24\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Store26-4-24\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\PostMyGreeting-Task-2-26-4-24\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Task-2-27-4-24\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting-Task-3-30-4-24\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\PostMyGreeting -17-5-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\PostMyGreeting -17-5-24\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting -17-5-24\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting -17-5-24\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Prachi\PostMyGreeting -17-5-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\PostMyGreeting -17-5-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\PostMyGreeting -17-5-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\PostMyGreeting -17-5-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\PostMyGreeting -17-5-24\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting -17-5-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\PostMyGreeting -17-5-24\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting -17-5-24\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\PostMyGreeting -19-5-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\PostMyGreeting -19-5-24\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting -19-5-24\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting -19-5-24\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Prachi\PostMyGreeting -19-5-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\PostMyGreeting -19-5-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\PostMyGreeting -19-5-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\PostMyGreeting -19-5-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\PostMyGreeting -19-5-24\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting -19-5-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\PostMyGreeting -19-5-24\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting -19-5-24\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Prachi\PostMyGreeting -2-6-24\Core\bin\Debug\net6.0\Core.deps.json
+C:\Prachi\PostMyGreeting -2-6-24\Core\bin\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting -2-6-24\Core\bin\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting -2-6-24\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Prachi\PostMyGreeting -2-6-24\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prachi\PostMyGreeting -2-6-24\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Prachi\PostMyGreeting -2-6-24\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Prachi\PostMyGreeting -2-6-24\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Prachi\PostMyGreeting -2-6-24\Core\obj\Debug\net6.0\Core.dll
+C:\Prachi\PostMyGreeting -2-6-24\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Prachi\PostMyGreeting -2-6-24\Core\obj\Debug\net6.0\Core.pdb
+C:\Prachi\PostMyGreeting -2-6-24\Core\obj\Debug\net6.0\ref\Core.dll

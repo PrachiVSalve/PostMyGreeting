@@ -1,0 +1,56 @@
+﻿ @model ReturnVM
+<script src="~/jquery/jquery.js"></script>
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Return Details  </h4>
+
+        <div>
+            @if (ViewBag.Message != null)
+            {
+                <div class="alert alert-info">@ViewBag.Message</div>
+            }
+        </div>
+
+        <form class="forms-sample" enctype="multipart/form-data" asp-action="" method="post">
+            <input type="hidden" asp-for="ReturnId" value="@ViewBag.ReturnId" />
+            <input type="hidden" asp-for="Price" value="@Model.Price" />
+
+            <div class="form-group">
+                <label class="form-label">  Return Id:@ViewBag.ReturnId</label>
+            </div>
+            <hr />
+            <div class="form-group">
+                <label class="form-label">Order Id:@Model.OrderId</label>
+
+            </div>  <hr />
+            <div class="form-group">
+                <label class="form-label">Product Id:@Model.ProductId</label>
+
+            </div>  <hr />
+            <div class="form-group">
+                <label class="form-label">Product Type:@Enum.GetName(typeof(ProductTypeEnum), Model.ProductType)</label>
+
+            </div>  <hr />
+            <div class="form-group">
+                <label class="form-label">
+                    @if (Model.ProductType == (int)ProductTypeEnum.GiftItem)
+                    {
+                        <label class="form-label"> Gift title :@Model.GiftItemTitle</label>
+
+                    }
+                    else if (Model.ProductType == (int)ProductTypeEnum.Card)
+                    {
+                        <label class="form-label"> Card Title :@Model.CardTitle</label>
+                    }
+                     
+                </label>
+
+            </div><hr />
+            <div class="form-group">
+                <label class="form-label">Product Amount:@Model.Price</label>
+            </div>
+            <button type="submit"  asp-route-id="@Model.ReturnId" class="btn  btn-outline-primary me-2"> Add Refund</button>
+           @*  <button class="btn btn-light"><a asp-action="Index" asp-controller="Return">Cancel</a></button> *@
+        </form>
+    </div>
+</div>

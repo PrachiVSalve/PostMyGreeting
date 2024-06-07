@@ -1,0 +1,495 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web
+build_property.RootNamespace = Web
+build_property.ProjectDir = C:\Prachi\PostMyGreeting -2-6-24\Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Prachi\PostMyGreeting -2-6-24\Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/AdminHome/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXEFkbWluSG9tZVxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/AdminHome/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXEFkbWluSG9tZVxFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/AdminHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXEFkbWluSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENhdGVnb3J5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENhdGVnb3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/City/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENpdHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/City/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENpdHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/City/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENpdHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/Country/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENvdW50cnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/Country/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENvdW50cnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/Country/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENvdW50cnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/Shared/_ProjectLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFNoYXJlZFxfUHJvamVjdExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/State/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFN0YXRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/State/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFN0YXRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/State/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFN0YXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/SubCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFN1YkNhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/SubCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFN1YkNhdGVnb3J5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/SubCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFN1YkNhdGVnb3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/Tax/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFRheFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/Tax/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFRheFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/Tax/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXFRheFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/AdminArea/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/CollectionReport/Collection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXENvbGxlY3Rpb25SZXBvcnRcQ29sbGVjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/CollectionReport/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXENvbGxlY3Rpb25SZXBvcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Complaints/AddSolution.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXENvbXBsYWludHNcQWRkU29sdXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Complaints/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXENvbXBsYWludHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Complaints/ViewSolution.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXENvbXBsYWludHNcVmlld1NvbHV0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/DispatchAgency/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXERpc3BhdGNoQWdlbmN5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/DispatchAgency/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXERpc3BhdGNoQWdlbmN5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/DispatchAgency/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXERpc3BhdGNoQWdlbmN5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/GiftItem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXEdpZnRJdGVtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/GiftItem/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXEdpZnRJdGVtXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/GiftItem/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXEdpZnRJdGVtXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/GiftItem/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXEdpZnRJdGVtXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/GiftItem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXEdpZnRJdGVtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/GreetingCard/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXEdyZWV0aW5nQ2FyZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/GreetingCard/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXEdyZWV0aW5nQ2FyZFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/GreetingCard/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXEdyZWV0aW5nQ2FyZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/GreetingCard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXEdyZWV0aW5nQ2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Offer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXE9mZmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Offer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXE9mZmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Offer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXE9mZmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Order/DispatchOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXE9yZGVyXERpc3BhdGNoT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXE9yZGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Order/NewOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXE9yZGVyXE5ld09yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Order/viewdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXE9yZGVyXHZpZXdkZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Order/viewdispatchdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXE9yZGVyXHZpZXdkaXNwYXRjaGRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/PendingReport/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFBlbmRpbmdSZXBvcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/PendingReport/PendingReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFBlbmRpbmdSZXBvcnRcUGVuZGluZ1JlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/RefundReport/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFJlZnVuZFJlcG9ydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/RefundReport/RefundReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFJlZnVuZFJlcG9ydFxSZWZ1bmRSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Return/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFJldHVyblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Return/ReturnDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFJldHVyblxSZXR1cm5EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Return/viewdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFJldHVyblx2aWV3ZGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Return/ViewReturn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFJldHVyblxWaWV3UmV0dXJuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/Shared/_StoreLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFNoYXJlZFxfU3RvcmVMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/StoreHome/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFN0b3JlSG9tZVxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/StoreHome/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFN0b3JlSG9tZVxFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/StoreHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXFN0b3JlSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/StoreArea/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU3RvcmVBcmVhXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/MyComplaint/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcTXlDb21wbGFpbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/MyComplaint/ViewSolution.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcTXlDb21wbGFpbnRcVmlld1NvbHV0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/MyReturn/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcTXlSZXR1cm5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/MyReturn/RefundDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcTXlSZXR1cm5cUmVmdW5kRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/MyReturn/viewdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcTXlSZXR1cm5cdmlld2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/Order/RaisComplaint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcT3JkZXJcUmFpc0NvbXBsYWludC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/Order/Return.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcT3JkZXJcUmV0dXJuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/Order/viewdetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcT3JkZXJcdmlld2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/Shared/_ProjectLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcU2hhcmVkXF9Qcm9qZWN0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/UserHome/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcVXNlckhvbWVcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/UserHome/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcVXNlckhvbWVcRWRpdFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/UserHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcVXNlckhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Areas/UserArea/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlckFyZWFcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Admin/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Cart/GetCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxHZXRDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Cart/PaymentGateway.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxQYXltZW50R2F0ZXdheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Cart/PlaceOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxQbGFjZU9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Home/Gift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaWZ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Home/Greeting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHcmVldGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Orderdelivery/DeliveryAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJkZWxpdmVyeVxEZWxpdmVyeUFkZHJlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Orderdelivery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJkZWxpdmVyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/CardsVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FyZHNWQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/CartCountVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydENvdW50VkNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/DashboardVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGFzaGJvYXJkVkNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/DispatchOrderVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGlzcGF0Y2hPcmRlclZDXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/DropDownVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRHJvcERvd25WQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/GiftComplaintVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2lmdENvbXBsYWludFZDXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/GiftItemVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2lmdEl0ZW1WQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/GiftsVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2lmdHNWQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/GiftVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2lmdFZDXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/GreetingCardVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR3JlZXRpbmdDYXJkVkNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/GreetingComplaintVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR3JlZXRpbmdDb21wbGFpbnRWQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/GreetingVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR3JlZXRpbmdWQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/NewComplaintVC/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmV3Q29tcGxhaW50VkNcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/NewOrderVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmV3T3JkZXJWQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/RefundVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVmdW5kVkNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/ReturnVC/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmV0dXJuVkNcZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/SolvedComplaintsVC/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU29sdmVkQ29tcGxhaW50c1ZDXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/StoreReviewVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3RvcmVSZXZpZXdWQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/StoreVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3RvcmVWQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/UserDispatchOrderVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlckRpc3BhdGNoT3JkZXJWQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/UserRefundVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlclJlZnVuZFZDXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/Components/UserSolutionVC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlclNvbHV0aW9uVkNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/StoreReview/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVSZXZpZXdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/StoreReview/StoreReview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVSZXZpZXdcU3RvcmVSZXZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/StoreReview/ViewReview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVSZXZpZXdcVmlld1Jldmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Store/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/Store/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/User/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/User/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Prachi/PostMyGreeting -2-6-24/Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

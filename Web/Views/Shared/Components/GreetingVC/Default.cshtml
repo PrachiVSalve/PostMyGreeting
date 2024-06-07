@@ -1,0 +1,122 @@
+﻿  @model IEnumerable<GreetingCard>
+<div class="table-responsive">
+    <div>  @TempData["Message"]</div>
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Post My greetings</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="" name="keywords">
+        <meta content="" name="description">
+
+        <!-- Google Web Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Raleway:wght@600;800&display=swap" rel="stylesheet">
+
+        <!-- Icon Font Stylesheet -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+        <!-- Libraries Stylesheet -->
+        <link href="~/FrontEnd/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+        <link href="~/FrontEnd/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+
+        <!-- Customized Bootstrap Stylesheet -->
+        <link href="~/FrontEnd/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="~/FrontEnd/css/style.css" rel="stylesheet">
+    </head>
+
+
+    <body>
+
+
+
+
+        <div class=" row bg-light rounded p-3">
+            <h2 class="text-center">Store Reviews</h2>
+            <div class="col-4"> </div>
+            <div class="col-md-4 text-center">
+                <a asp-action="ViewReview" asp-controller="StoreReview" class="btn btn-sm border-2 border-secondary text-white h-200 " style="background-color:blueviolet">
+                    <h6 id="cartText" class="text-white"> View Review</h6>
+
+                </a>
+                <a asp-action="StoreReview" asp-controller="StoreReview" class="btn btn-sm border-2 border-secondary text-white h-200" style="background-color:blueviolet">
+                    <h6 id="cartText" class="text-white"> Add Review</h6>
+
+                </a>
+
+            </div>
+        </div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/Frontend/lib/easing/easing.min.js"></script>
+        <script src="~/Frontend/lib/waypoints/waypoints.min.js"></script>
+        <script src="~/Frontend/lib/lightbox/js/lightbox.min.js"></script>
+        <script src="~/Frontend/lib/owlcarousel/owl.carousel.min.js"></script>
+
+        <!-- Template Javascript -->
+        <script src="~/Frontend/js/main.js"></script>
+    </body>
+
+</html>
+<hr /><br />
+<div class="container-fluid">
+    <div class="container">
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+
+                      
+                    <tr> 
+                        <th> #</th>
+                        <th>GreetinCard Photo</th>
+                        <th>GreetingCard Title</th>
+
+                        <th> Actions</th>
+                    </tr>
+
+                </thead>
+                <tbody>
+                    @{
+                    int srno = 1;
+                    }
+                    @foreach (var temp in Model)
+                    {
+
+                        <tr>
+                             <td>@srno</td>
+                            <td>
+                                <img src="@temp.PhotoPath" width="100" height="100" />
+                            </td>
+                             
+                            <td>@temp.CardTitle</td>
+
+
+
+                            <td>
+                                <a asp-action="AddToGreetingCart" asp-controller="Cart" asp-route-gcid="@temp.GreetingCardId" asp-route-storeid="@temp.Product.StoreId" class="btn  btn-sm border-2 border-secondary text-white h-50" style="background-color:blueviolet">
+                                    <h6 id="cartText" class="text-white"> Add To Cart</h6>
+
+                                </a>
+                                
+
+                                 
+                            </td>
+                        </tr>
+                         srno++;
+
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>
+ 

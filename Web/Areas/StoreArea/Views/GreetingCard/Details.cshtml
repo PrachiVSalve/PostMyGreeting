@@ -1,0 +1,82 @@
+﻿ @model GreetingCardVM
+<div class="col-lg-12 grid-margin ">
+    <div class="card w-100">
+        <div class="card-body">
+            <h3 class="card-title">GREETINGS</h3>
+             
+            <div class="table-responsive pt-4">
+                <table class="table col-12" style="width:100%;">
+                    <thead>
+                        <tr>
+                            <th>Greeting Card Title</th>                           
+                            <th>
+                                @Model.CardTitle
+                            </th>
+                        </tr>
+                        <tr>
+                            <th> Price </th>
+                            <th>
+                                @Model.Price
+                            </th>
+                        </tr>
+                        <tr>
+                            <th>
+                                Category Name
+                            </th>
+                            <th>
+                                @Model.CategoryName
+                                @* @ViewBag.Cat *@
+                            </th>
+
+                        </tr>
+                        <tr>
+                            <th>
+                                SubCategory Name
+                            </th>
+                            <th>
+                                @Model.SubCategoryName
+                            </th>
+                        </tr>
+
+                        <tr>
+                            <th>
+                                Product Type
+                            </th>
+                            <th>
+                                @Enum.GetName(typeof(ProductTypeEnum), @Model.ProductType)
+                            </th>
+                        </tr>
+                        <tr>
+
+                            <th>
+                                Gift Item Description
+                            </th>
+                            <th>
+                                @Model.CardDescription 
+                            </th>
+                        </tr>
+
+                        <tr>
+
+                            <th>
+                                Greeting Card Photo
+                            </th>
+                            <th>
+                                <img style="width:40%;height:200px;" class="rounded-circle"src="@Model.PhotoPath" />
+                            </th>
+                        </tr>
+
+
+                        </thead>
+
+
+                    
+                            
+                     
+                </table>
+                <a class="btn btn-success" asp-action="Index"> Back To List </a>
+            </div>
+        </div>
+    </div>
+</div>
+ 

@@ -1,0 +1,162 @@
+﻿  @model Order
+<div class="profile-overview active">
+
+    <h5 class="card-title">Order </h5>
+    <form class="forms-sample" enctype="multipart/form-data" asp-area="StoreArea" asp-action="DispatchOrder" asp-controller="Order" method="get">
+        <div class="row">
+            <div class="col-lg-3 col-md-4 label">Order No:</div>
+            <div class="col-lg-9 col-md-8">@Model.OrderId</div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-md-4 label">User Name</div>
+            <div class="col-lg-9 col-md-8">@Model.User.FullName</div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-lg-3 col-md-4 label">Order Date:</div>
+            <div class="col-lg-9 col-md-8">@Model.OrderDate.ToString("dd-MM-yyyy")</div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-3 col-md-4 label">Is Paid</div>
+            @if (Model.IsPaid)
+            {
+                <div class="text-success">Yes</div>
+            }
+            else
+            {
+                <div class="text-danger">No</div>
+            }
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <h2> Order Details </h2>
+                @if (Model.OrderDetails.Any())
+                {
+                    @await Component.InvokeAsync("GiftVC", new { OrderId = @Model.OrderId })
+                }
+
+            </div>
+            <div class="col-md-12">
+
+                @if (Model.OrderDetails.Any())
+                {
+                    @await Component.InvokeAsync("GreetingCardVC", new { OrderId = @Model.OrderId })
+                }
+
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    @if (!Model.Payment.Any())
+                    {
+                        <h2> Payment Details </h2>
+                        <hr />
+                        <table class="table table-bordered">
+                            <tr>
+                                <td> Payment Mode: </td>
+                                <td>
+                                    Cash On Delivery
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td> Payment Date: </td>
+                                <td>
+                                    @Model.OrderDate.ToString("dd-mm-yyyy")
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td> Payment Amount: </td>
+                                <td>
+                                    @Model.OrderDetails.Sum(p => p.Price)
+                                    @{
+                                        double p = Convert.ToDouble(Model.OrderDetails.Sum(p => p.Price));
+                                    }
+                                </td>
+                            </tr>
+                            
+                        </table>
+                    }
+
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    @if (Model.Payment.Any())
+                    {
+                        <h2> Payment Details </h2>
+                        <hr />
+                        <table class="table table-bordered">
+                            <tr>
+                                <td> Payment Mode: </td>
+                                <td>
+                                    @Model.Payment.FirstOrDefault().PaymentMode
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td> Payment Date: </td>
+                                <td>
+                                    @Model.Payment.FirstOrDefault().PaymentDate.ToString("dd-MM-yyyy")
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td> Payment Amount: </td>
+                                <td>
+                                    @Model.Payment.FirstOrDefault().Amount
+                                </td>
+                            </tr>
+                        </table>
+                    }
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    @if (Model.Dispatch.Any())
+                    {
+                        <h2> Dispatch Details </h2>
+                        <hr />
+                        <table class="table table-bordered">
+                            <tr>
+                                <td> Dispatch Agency Name : </td>
+                                <td>
+                                    @Model.Dispatch.FirstOrDefault().Agency.AgencyName
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td> Dispatch Date: </td>
+                                <td>
+                                    @Model.Dispatch.FirstOrDefault().DispatchDate.ToString("dd-MM-yyyy")
+                                </td>
+                            </tr>
+                            <tr>
+                                <td> Expected Rich Date: </td>
+                                <td>
+                                    @Model.Dispatch.FirstOrDefault().ExpectedRichDate.ToString("dd-MM-yyyy")
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td> Docket No: </td>
+                                <td>
+                                    @Model.Dispatch.FirstOrDefault().DocketNo
+                                </td>
+                            </tr>
+                        </table>
+                    }
+                </div>
+            </div>
+
+
+
+        </div>
+        <a asp-action="Index" class="btn btn-outline-primary"> Back </a>
+        
+    </form>
+</div>

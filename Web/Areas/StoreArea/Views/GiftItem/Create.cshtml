@@ -1,0 +1,94 @@
+﻿@model GiftItemVM
+
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create GiftItem</h4>
+        <div>
+            @if (ViewBag.Message != null)
+            {
+                <div class="alert alert-info">@ViewBag.Message</div>
+            }
+
+        </div>
+        <form class="form-sample row g-3" enctype="multipart/form-data" asp-action="Create" method="post">
+                        @*  <input type="hidden"id="StoreId"name="StoreId" value="@ViewBag.StoreId"/>    *@
+            <input type="hidden" @Context.Session.GetString("StoreID") />
+                    <div class="col-12 ">
+                        <label class=" form-label">GiftItem Title </label>                         
+                            <input asp-for="GiftItemTitle" class="form-control" />
+                            <span asp-validation-for="GiftItemTitle" class="text-danger"></span>                                                          
+                    </div>
+            <div class="col-12 ">
+                <label class=" form-label">Product Price</label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Select Category</label>
+                <select id="category" class="form-select" asp-for="CategoryID"   asp-items="@ViewBag.Cat">
+                    <option> Select Category</option>
+                </select>
+                 
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Select SubCategory</label>
+                <select id="subcategory" class="form-select" name="SubCategoryId" asp-for="SubCategoryId" asp-items="@ViewBag.SubCat">
+                    <option> Select SubCategory</option>
+                </select>
+                 
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Select Product Type</label>
+                <select   class="form-select" name="ProductType" asp-items="@Html.GetEnumSelectList<ProductTypeEnum>()" >
+                    <option> Select ProductType</option>
+                </select>
+                <span asp-validation-for="ProductType" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 ">
+                <label class=" form-label">Card Description </label>
+                <textarea asp-for="GiftItemDescription" class="form-control" ></textarea>
+                <span asp-validation-for="GiftItemDescription" class="text-danger"></span>
+            </div>
+
+            <div class="col-12">
+                <label class="form-label">Gift Photo</label>
+                <input type="file"  asp-for="ActualFile" class="form-control" />
+                <span asp-validation-for="ActualFile" class="text-danger"></span>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Create</button>
+            </div>
+        </form>
+        <a class="btn btn-success" asp-action="Index"> Back To List </a>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        $("#category").change(function () {
+
+
+            $.ajax({
+                url: "/StoreArea/GiftItem/GetSubCategoryJson/" + $("#category").val(),
+                type: "Get",
+                contentType: "application/json",
+                success: function (result) {
+                    //alert(JSON.stringify(result));
+                    $("#subcategory").empty();
+                    for (var i = 0; i < result.length; i++) {
+                        var str = "<option value='" + result[i].subCategoryId + "'>" + result[i].subCategoryName + "</option>";
+                        $("#subcategory").append(str);
+                    }
+                },
+                error: function (err) {
+                    alert(JSON.stringify(err));
+                }
+            });
+
+        });
+
+    });
+</script>

@@ -1,0 +1,35 @@
+﻿ @model IEnumerable<CartVM>
+
+<div class="card">
+    <div class="card-body">
+        <!-- Bordered Table -->
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                     
+                    <th scope="col">Product ID</th>
+                    <th> Product Name</th>
+                    
+                     
+                </tr>
+            </thead>
+            <tbody>
+                
+                @foreach (var temp in Model)
+                {
+                    <tr>
+                        <input type="hidden" value="@temp.ProductId" id="giftid" />
+                        <td><input type="checkbox" id="gift" />@temp.ProductId</td>
+                        <td>@temp.ProductName</td>
+                      
+                        @* <td>
+                            <a class="btn btn-outline-primary" asp-action="TakeAction" asp-route-id="@temp.OrderComplaintID">Take Action</a>
+                        </td> *@
+                    </tr>
+                   
+                }
+            </tbody>
+        </table>
+        <!-- End Bordered Table -->
+    </div>
+</div>

@@ -1,0 +1,55 @@
+﻿ @model DispatchAgency
+
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create DispatchAgency</h4>
+        <form class="form-sample row g-3" asp-action="Create" method="post">
+
+
+
+            <div class="col-12 ">
+                <label class=" form-label">Agency Name</label>
+
+                <input asp-for="AgencyName" class="form-control" />
+                <span asp-validation-for="AgencyName" class="text-danger"></span>
+             </div>
+            <div class="col-12 ">
+                <label class=" form-label">Address</label>
+
+                <textarea asp-for="Address" class="form-control" ></textarea>
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 ">
+                <label class=" form-label">EmailId</label>
+
+                <input asp-for="Emial" class="form-control" />
+                <span asp-validation-for="Emial" class="text-danger"></span>
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Mobile No</label>
+
+                <input asp-for="MobileNo" class="form-control" />
+                <span asp-validation-for="MobileNo" class="text-danger"></span>
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Contact Person Name</label>
+
+                <input asp-for="ContactPerson" class="form-control" />
+                <span asp-validation-for="ContactPerson" class="text-danger"></span>
+            </div>
+
+
+
+
+
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Create</button>
+            </div>
+        </form>
+        <a class="btn btn-success" asp-action="Index"> Back To List </a>
+    </div>
+</div>
+

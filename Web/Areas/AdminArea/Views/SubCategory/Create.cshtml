@@ -1,0 +1,33 @@
+﻿@model SubCategory
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create SubCategory</h4>
+        <form class="form-sample" asp-action="Create"method="post">
+           
+            <div class="row">
+
+                <div class="col-12 ">
+                    <label class=" form-label">SubCategory Name</label>
+
+                    <input asp-for="SubCategoryName" class="form-control" />
+                    <span asp-validation-for="SubCategoryName" class="text-danger"></span>
+
+
+                </div>
+                <div class="col-12">
+                    <label class="form-label">Select Category Name</label>
+                    <select class="form-select" asp-for="CategoryID" asp-items="@ViewBag.Cat">
+                        <option> Select Category</option>
+                    </select>
+                    <span asp-validation-for="CategoryID" class="text-danger"></span>
+                </div>
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
+            
+            </div>
+        </form>
+        <a class="btn btn-success" asp-action="Index"> Back To List </a>
+    </div>
+     
+</div>

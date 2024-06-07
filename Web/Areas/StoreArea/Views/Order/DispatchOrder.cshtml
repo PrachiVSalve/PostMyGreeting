@@ -1,0 +1,50 @@
+﻿@model Dispatch
+
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Dispatch</h4>
+        <div>
+            @if (ViewBag.Message != null)
+            {
+                <div class="alert alert-info">@ViewBag.Message</div>
+            }
+
+        </div>
+        <form class="form-sample row g-3" enctype="multipart/form-data" asp-action="DispatchOrder" method="post">
+            <div class="form-group">
+                <label class="form-label">  Order Id:@TempData["OrderId"]</label>
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Dispatch Date </label>
+                <input asp-for="DispatchDate" class="form-control" />
+                <span asp-validation-for="DispatchDate" class="text-danger"></span>
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Docket No</label>
+                <input asp-for="DocketNo" class="form-control" />
+                <span asp-validation-for="DocketNo" class="text-danger"></span>
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Agency Name</label>
+                <select class="form-select" asp-for="DispatchAgencyId" asp-items="@ViewBag.DispatchAgencyId">
+                    <option> Select Agency</option>
+                </select>
+
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Expected Rich Date </label>
+                <input asp-for="ExpectedRichDate" class="form-control" />
+                <span asp-validation-for="ExpectedRichDate" class="text-danger"></span>
+            </div>
+
+            
+            <div class="text-center">
+                <button type="submit" asp-route-id="@TempData["OrderId"]" class="btn btn-primary">Save</button>
+            </div>
+        </form>
+         
+    </div>
+</div>
+
+ 

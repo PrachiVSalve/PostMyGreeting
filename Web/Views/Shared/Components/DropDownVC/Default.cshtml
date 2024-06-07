@@ -1,0 +1,47 @@
+﻿<table>
+    <tr>
+<form asp-action="searchByProperty" asp-controller="Home" class="col-12" method="post">
+    <th>
+        <div>
+            <label class=" form-label">Select Product Type</label>
+
+            <select class="form-select" name="Protype" asp-items="@Html.GetEnumSelectList<ProductTypeEnum>()">
+
+
+                <option> Select ProductType</option>
+
+            </select>
+
+        </div>
+    </th>
+    <th>
+        <div>
+            <label class=" form-label text-black">Select Category</label>
+
+            <select class="form-select" id="category" name="catg" asp-items="@ViewBag.CategotyID">
+                <option>Select Category</option>
+            </select>
+
+        </div>
+    </th>
+    <th>
+        <div>
+            <label class=" form-label">Select SubCategory</label>
+
+            <select class="form-select" id="subcategory" name="subcat" asp-items="@ViewBag.SubCategoryId">
+                <option>Select SubCategory</option>
+            </select>
+
+
+        </div>
+    </th>
+
+    <th>
+        <div>
+
+            <button type="submit" class=" btn border-2 border-secondary text-white h-100" style="background-color:blueviolet">Search</button>
+        </div>
+    </th>
+</form>
+    </tr>
+</table>

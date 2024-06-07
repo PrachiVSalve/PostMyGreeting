@@ -1,0 +1,58 @@
+﻿ @model IEnumerable<ReturnVM>
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+
+            <h4 class="card-title">Returns List</h4>
+
+            <div class="table-responsive">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+
+                            <th> #</th>
+                            <th>Return Date</th>
+                            <th>Return Reason</th>
+                            <th> Order No</th>
+                            <th>Product No</th>
+                            <th>Product Type</th>
+                            <th>Product Name</th>
+                            <th> Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            int srno = 1;
+                        }
+                        @foreach (var temp in Model)
+                        {
+                            <tr>
+                                <input type="hidden" value="@temp.ReturnId" />
+                                <td>@srno</td>
+                                <td>@temp.ReturnDate.ToString("dd-mm-yyyy")</td>
+                                <td>@temp.ReturnReasion</td>
+                                <td>@temp.OrderId</td>
+                                <td>@temp.ProductId</td>
+                                <td>@Enum.GetName(typeof(ProductTypeEnum), temp.ProductType)</td>
+                                @if (temp.ProductType == (int)ProductTypeEnum.GiftItem)
+                                {
+                                    <td>  @temp.GiftItemTitle</td>
+                                }
+                                else if (temp.ProductType == (int)ProductTypeEnum.Card)
+                                {
+                                    <td>  @temp.CardTitle</td>
+                                }
+
+                                <td> <a class="btn  btn-outline-primary" asp-controller="MyReturn" asp-action="viewdetails" asp-route-id="@temp.ReturnId">View Refund Details </a></td>
+                            </tr>
+                            srno++;
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+
+        </div>
+    </div>
+</div>

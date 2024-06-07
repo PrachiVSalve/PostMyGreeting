@@ -1,0 +1,197 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\UserArea\Data\" />
+    <Folder Include="Areas\UserArea\Models\" />
+    <Folder Include="Areas\StoreArea\Data\" />
+    <Folder Include="Areas\StoreArea\Models\" />
+    <Folder Include="Areas\AdminArea\Data\" />
+    <Folder Include="Areas\AdminArea\Models\" />
+    <Folder Include="Models\" />
+    <Folder Include="wwwroot\GreetingImages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Shared\Components\DashboardVC\Default.cshtml" />
+    <None Include="wwwroot\Backend\documentation\.DS_Store" />
+    <None Include="wwwroot\Backend\fonts\.DS_Store" />
+    <None Include="wwwroot\Backend\fonts\Roboto\.DS_Store" />
+    <None Include="wwwroot\Backend\images\.DS_Store" />
+    <None Include="wwwroot\Backend\images\auth\.DS_Store" />
+    <None Include="wwwroot\Backend\images\faces\.DS_Store" />
+    <None Include="wwwroot\Backend\js\.DS_Store" />
+    <None Include="wwwroot\Backend\pages\.DS_Store" />
+    <None Include="wwwroot\Backend\pages\charts\.DS_Store" />
+    <None Include="wwwroot\Backend\pages\forms\.DS_Store" />
+    <None Include="wwwroot\Backend\pages\icons\.DS_Store" />
+    <None Include="wwwroot\Backend\pages\samples\.DS_Store" />
+    <None Include="wwwroot\Backend\pages\tables\.DS_Store" />
+    <None Include="wwwroot\Backend\pages\ui-features\.DS_Store" />
+    <None Include="wwwroot\Backend\scss\.DS_Store" />
+    <None Include="wwwroot\Backend\scss\components\.DS_Store" />
+    <None Include="wwwroot\Backend\scss\mixins\.DS_Store" />
+    <None Include="wwwroot\Backend\vendors\.DS_Store" />
+    <None Include="wwwroot\FrontEnd\js\main.js" />
+    <None Include="wwwroot\FrontEnd\lib\easing\easing.js" />
+    <None Include="wwwroot\FrontEnd\lib\easing\easing.min.js" />
+    <None Include="wwwroot\FrontEnd\lib\lightbox\js\lightbox.min.js" />
+    <None Include="wwwroot\FrontEnd\lib\owlcarousel\LICENSE" />
+    <None Include="wwwroot\FrontEnd\lib\owlcarousel\owl.carousel.js" />
+    <None Include="wwwroot\FrontEnd\lib\owlcarousel\owl.carousel.min.js" />
+    <None Include="wwwroot\FrontEnd\lib\waypoints\links.php" />
+    <None Include="wwwroot\FrontEnd\lib\waypoints\waypoints.min.js" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\bootstrap-grid.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\bootstrap-reboot.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\bootstrap-utilities.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\bootstrap.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\forms\_floating-labels.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\forms\_form-check.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\forms\_form-control.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\forms\_form-range.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\forms\_form-select.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\forms\_form-text.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\forms\_input-group.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\forms\_labels.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\forms\_validation.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\helpers\_clearfix.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\helpers\_colored-links.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\helpers\_position.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\helpers\_ratio.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\helpers\_stretched-link.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\helpers\_text-truncation.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\helpers\_visually-hidden.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_alert.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_border-radius.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_box-shadow.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_breakpoints.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_buttons.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_caret.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_clearfix.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_color-scheme.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_container.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_deprecate.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_forms.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_gradients.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_grid.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_image.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_list-group.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_lists.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_pagination.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_reset-text.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_resize.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_table-variants.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_text-truncate.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_transition.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_utilities.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\mixins\_visually-hidden.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\utilities\_api.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\vendor\_rfs.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_accordion.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_alert.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_badge.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_breadcrumb.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_button-group.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_buttons.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_card.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_carousel.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_close.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_containers.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_dropdown.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_forms.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_functions.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_grid.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_helpers.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_images.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_list-group.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_mixins.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_modal.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_nav.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_navbar.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_offcanvas.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_pagination.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_popover.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_progress.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_reboot.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_root.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_spinners.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_tables.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_toasts.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_tooltip.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_transitions.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_type.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_utilities.scss" />
+    <None Include="wwwroot\FrontEnd\scss\bootstrap\scss\_variables.scss" />
+    <None Include="wwwroot\GiftImages\full-of-qualities-personalised.webp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.18">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+    <ProjectReference Include="..\Repo\Repo.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\AdminArea\Views\Category\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\AdminArea\Views\City\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\AdminArea\Views\SubCategory\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\AdminArea\Views\Tax\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\StoreArea\Views\GiftItem\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\StoreArea\Views\GreetingCard\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\StoreArea\Views\Offer\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Views\User\SignUp.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Areas\AdminArea\Views\City\Create.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Areas\AdminArea\Views\City\Create.cshtml" />
+    <_ContentIncludedByDefault Remove="Areas\AdminArea\Views\City\Edit.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Areas\AdminArea\Views\City\Edit.cshtml" />
+  </ItemGroup>
+
+</Project>

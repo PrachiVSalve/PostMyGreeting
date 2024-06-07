@@ -1,0 +1,41 @@
+﻿   @model IEnumerable<CartVM>
+
+
+        <div class="table-responsive">
+
+            <table class="table">
+ 
+                <tbody>
+                    @{
+                        int srno = 1;
+                        decimal? amount = 0, totalamount = 0;
+                    }
+                    @foreach (var temp in Model)
+                    {
+
+                        <tr>
+                            <td>@srno</td>
+                            <td>@temp.CardTitle</td>
+                            <td>
+                                <img src="@temp.PhotoPath" width="100" height="100" />
+                            </td>
+                            <td>@temp.Qty</td>
+                            <td>@temp.Price</td>
+                            <td>
+                                @{
+                                    amount = temp.Qty * temp.Price;
+                                    totalamount += amount;
+                                }
+                                @amount
+                            </td>
+                            <td>
+                        <a asp-action="DeleteCart" asp-route-CartId="@temp.CartId" asp-controller="Cart" class="btn  border-2 border-secondary text-white h-100" style="background-color:blueviolet"> Delete </a>
+                            </td>
+                        </tr>
+                        srno++;
+
+                    }
+                </tbody>
+            </table>
+        </div>
+

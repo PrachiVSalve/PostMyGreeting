@@ -1,0 +1,41 @@
+﻿ @model IEnumerable<Return>
+
+<div class="card">
+    <div class="card-body">
+        <!-- Bordered Table -->
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Order ID</th>
+                    <th>Product Type</th>
+                    <th> User Name</th>
+                    <th> Return Date</th>
+                    <th> Return Reasion</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    int srno = 1;
+                }
+                @foreach (var temp in Model)
+                {
+                    <tr>
+                        <th scope="row">@srno</th>
+                        <td>@temp.OrderId</td>
+                        <td>@temp.Product.ProductType</td>
+                        <td>@temp.Order.User.FullName</td>
+                        <td>@temp.ReturnDate </td>
+                        <td>@temp.ReturnReasion</td>
+                        <td>
+                            <a class="btn btn-outline-primary" asp-action="ReturnDetails" asp-route-id="@temp.ReturnId">View & Refund</a>
+                        </td>
+                    </tr>
+                    srno++;
+                }
+            </tbody>
+        </table>
+        <!-- End Bordered Table -->
+    </div>
+</div>

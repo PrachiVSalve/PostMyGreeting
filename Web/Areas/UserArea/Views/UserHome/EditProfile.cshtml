@@ -1,0 +1,115 @@
+﻿@model EditUserProfileVM
+<div class="card-body">
+    <h4 class="card-title">Edit User Profile</h4>
+    <div>
+        @if (ViewBag.Message != null)
+        {
+            <div class="alert alert-info">@ViewBag.Message</div>
+        }
+
+    </div>
+    <form class="forms-sample"asp-action="EditProfile"asp-controller="UserHome" asp-area="UserArea" method="post">
+        <div class="form-group">
+            <label class="form-label"> First Name </label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="form-label"> Last Name </label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label class="form-label">Mobile Number </label>
+            <input asp-for="MobileNo" class="form-control" />
+            <span asp-validation-for="MobileNo" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="form-label">Address</label>
+            <textarea asp-for="Address" class="form-control" ></textarea>
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="form-label">EmailId</label>
+            <textarea asp-for="EmailId" class="form-control"></textarea>
+            <span asp-validation-for="EmailId" class="text-danger"></span>
+        </div>
+         
+        @* <div class="form-group">
+            <label class="form-label">Select Country Name</label>
+            <select id="country" class="form-select" asp-for="CountryId" asp-items="@ViewBag.Countrys">
+                <option> Select Country</option>
+            </select>
+            <span asp-validation-for="CountryId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label class="form-label">Select State Name</label>
+            <select id="State" class="form-select" asp-for="StateId" asp-items="@ViewBag.States">
+                <option> Select State</option>
+            </select>
+            <span asp-validation-for="StateId" class="text-danger"></span>
+        </div>
+        <div class="col-12">
+            <label class="form-label">Select City Name</label>
+            <select id="City" class="form-select" asp-for="CityId" asp-items="@ViewBag.Citys">
+                <option> Select City</option>
+            </select>
+            <span asp-validation-for="CityId" class="text-danger"></span>
+        </div>
+       
+          *@
+        <button type="submit" class="btn btn-primary me-2">Submit</button>
+        
+    </form>
+</div>
+@* <script type="text/javascript">
+    $(function () {
+        $("#country").change(function () {
+
+            $.ajax({
+                url: "/Home/GetStateJson/" + $("#country").val(),
+                type: "Get",
+                contentType: "application/json",
+                success: function (result) {
+                    //alert(JSON.stringify(result));
+                    $("#State").empty();
+                    for (var i = 0; i < result.length; i++) {
+                        var str = "<option value='" + result[i].stateId + "'>" + result[i].stateName + "</option>";
+                        $("#State").append(str);
+                    }
+                },
+                error: function (err) {
+                    alert(JSON.stringify(err));
+                }
+            });
+
+        });
+    });
+
+        $(function () {
+    
+        $("#State").change(function () {
+
+            $.ajax({
+                url: "/Home/GetCityJson/" + $("#State").val(),
+                type: "Get",
+                contentType: "application/json",
+                success: function (result) {
+                  // alert(JSON.stringify(result));
+                    $("#City").empty();
+                    for (var i = 0; i < result.length; i++) {
+                        var str = "<option value='" + result[i].cityId + "'>" + result[i].cityName + "</option>";
+                        $("#City").append(str);
+                    }
+                },
+                error: function (err) {
+                    alert(JSON.stringify(err));
+                }
+            });
+
+        });
+
+
+    });
+</script> *@

@@ -1,0 +1,105 @@
+﻿@model GreetingCardVM
+
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Edit GreetingCard</h4>
+        <div>
+            @if (ViewBag.Message != null)
+            {
+                <div class="alert alert-info">@ViewBag.Message</div>
+            }
+
+        </div>
+        <form class="form-sample row g-3" enctype="multipart/form-data" asp-action="Edit" method="post">
+            <input type="hidden" asp-for="GreetingCardId" />
+            <input type="hidden" asp-for="ProductId" />
+            <input type="hidden" asp-for="SubCategoryId" /> 
+            <input type="hidden" @Context.Session.GetString("StoreID") />
+            <div class="col-12 ">
+                        <label class=" form-label">GreetingCard Title </label>                         
+                            <input asp-for="CardTitle" class="form-control" />
+                            <span asp-validation-for="CardTitle" class="text-danger"></span>                                                          
+                    </div>
+            <div class="col-12 ">
+                <label class=" form-label">Product Price</label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Select Category</label>
+                <select id="category" class="form-select" name="CategoryID" asp-items="@ViewBag.Cat">
+                    <option> Select Category</option>
+                </select>
+
+            </div>
+            <div class="col-12 ">
+                <label class=" form-label">Select SubCategory</label>
+                <select id="subcategory" class="form-select" name="SubCategoryId" asp-items="@ViewBag.SubCat">
+                    <option> Select SubCategory</option>
+                </select>
+                
+            </div>
+             
+            <div class="col-12 ">
+                <label class=" form-label">Select Product Type</label>
+                <select   class="form-select" name="ProductType" asp-for="ProductType" asp-items="@Html.GetEnumSelectList<ProductTypeEnum>()">
+                    <option> Select ProductType</option>
+                </select>
+            </div>
+
+            <div class="col-12 ">
+                <label class=" form-label">Card Description </label>
+                <textarea asp-for="CardDescription" class="form-control"></textarea>
+                <span asp-validation-for="CardDescription" class="text-danger"></span>
+            </div>
+            <div class="col-12">
+                <label class="form-label">Old GreetinCards Photos</label>
+                <img src="@Model.PhotoPath" height="100" width="100" />
+                <input type="hidden" asp-for="PhotoPath" />
+
+            </div>
+
+            <div class="col-12">
+                <label class="form-label">Upload New Greeting Photos </label>
+                <input type="file" asp-for="ActualFile" class="form-control" />
+                <span asp-validation-for="ActualFile" class="text-danger"></span>
+            </div>
+            <div class="col-3">
+                <label class="form-label">IS Digital</label>
+                <input type="checkbox" asp-for="IsDigital" class="form-control" />
+                <span asp-validation-for="IsDigital" class="text-danger"></span>
+            </div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Update</button>
+            </div>
+        </form>
+        <a class="btn btn-success" asp-action="Index"> Back To List </a>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        $("#category").change(function () {
+
+            $.ajax({
+                url: "/StoreArea/GreetingCard/GetSubCategoryJson/" + $("#category").val(),
+                type: "Get",
+                contentType: "application/json",
+                success: function (result) {
+                    //alert(JSON.stringify(result));
+                    $("#subcategory").empty();
+                    for (var i = 0; i < result.length; i++) {
+                        var str = "<option value='" + result[i].subCategoryId + "'>" + result[i].subCategoryName + "</option>";
+                        $("#subcategory").append(str);
+                    }
+                },
+                error: function (err) {
+                    alert(JSON.stringify(err));
+                }
+            });
+
+        });
+
+    });
+</script>

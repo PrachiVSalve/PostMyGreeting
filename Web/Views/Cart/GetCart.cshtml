@@ -1,0 +1,66 @@
+﻿
+<div class="container-fluid">
+    <div class="container">
+        <div class="table-responsive">
+            <br />
+            <h1> Cart For: @Context.Session.GetString("UserName") </h1>
+            <span class="text-black">Your cart: <span class="badge bg-info rounded-circle pt-2">@await Component.InvokeAsync("CartCountVC", new { userid = Convert.ToInt64(Context.Session.GetString("UserID")) })</span></span>
+            <hr />
+            <table class="table">
+                <tr>
+                    @await Component.InvokeAsync("GiftsVC", new { userid = Convert.ToInt64(Context.Session.GetString("UserID")) })
+                </tr>
+                <tr>
+                    @await Component.InvokeAsync("CardsVC", new { userid = Convert.ToInt64(Context.Session.GetString("UserID")) })
+                </tr>
+                <table class="table">
+                    @{
+                        decimal? total = 0;
+                    }
+                    <tr style="background-color:#f9f3ec;color:#000;">
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td> </td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+
+
+                        <td>Total Amount</td>
+                        
+                        <td>
+                                @{
+                                    decimal total1 = Convert.ToInt64(@TempData["totalgift"]);
+                                    decimal total2 = Convert.ToInt64(@TempData["totalcard"]);
+                                    
+                                    total += total1;
+                                    total += total2;
+                                }
+
+                                @total
+
+                        </td>
+                        <td></td>
+                    </tr>
+
+                </table>
+
+            </table>
+            <div class="btn  d-flex text-center">
+
+                <a asp-action="DeliveryAddress" asp-controller="Orderdelivery" asp-route-id="id" class="btn text-center btn-sm border-2 border-secondary text-white h-50" style="background-color:blueviolet">
+                    <h6 id="cartText" class="text-white text-center"> Add To deliveryAddress</h6>
+                </a>
+
+            </div>
+        </div>
+
+    </div>
+</div>

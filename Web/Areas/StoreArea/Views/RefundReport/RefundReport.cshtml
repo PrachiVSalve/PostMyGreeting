@@ -1,0 +1,87 @@
+﻿   @model IEnumerable<ReturnVM>
+<a asp-action="Index">Back</a>
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+       
+        <div class="card-body">
+
+            <div class="page-header w-100">
+                <h3 class="page-title">
+                    Date:@DateTime.Now.ToString("dd-mm-yyyy")
+                </h3>
+                <nav aria-label="breadcrumb">
+                    <ul class="breadcrumb">
+                        <li class="breadcrumb-item active" aria-current="page">
+                            <h4>
+                                <b>
+                                    Store: @Context.Session.GetString("StoreName")
+                                    Refund Report
+                                </b>
+                            </h4>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="table-responsive pt-3">
+              
+                <hr />
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th> #</th>
+                            <th>Refund Date</th>
+                            <th>Order No</th>
+                            <th>Refund Amount</th>
+
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            int srno = 1;
+                            decimal? totalamount = 0;
+                        }
+                        @foreach (var temp in Model)
+                        {
+                            <tr>
+                                <td>@srno</td>
+
+                                <td>@srno</td>
+                                <td>@temp.RefundDate.ToString("dd-mm-yyyy")</td>
+                                <td>@temp.OrderId</td>
+                                <td>@temp.RefundAmount</td>
+
+
+                                @{
+
+                                    totalamount += temp.RefundAmount;
+                                }
+
+
+                            </tr>
+                            srno++;
+                        }
+                        <tr >
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td><b>Total Amount</b></td>
+                            <td><b>@totalamount</b></td>
+
+                        </tr>
+
+                    </tbody>
+                </table>
+                <br />
+                <div class="text-center  w-100">
+                    <button type="submit" onclick="PrintReport()" class="btn btn-primary">Print</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function PrintReport() {
+        window.print();
+    }
+</script>

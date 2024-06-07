@@ -1,0 +1,43 @@
+﻿
+<div class="col-lg-6">
+
+    <div class="card">
+        <div class="card-body">
+
+
+            <!-- Vertical Form -->
+            @if (TempData["Message"] != null)
+            {
+                <div class="alert alert-info">@TempData["Message"]</div>
+            }
+            <form class="forms-sample" enctype="multipart/form-data" asp-action="RefundReport" method="get">
+                <div class="row vh-25 align-items-center">
+                    <div class="row">
+                        <div class="col-md-5">From Date:</div>
+                        <div class="col-md-7">
+                            <input class="form-control" name="r" id="form" placeholder="FromDate" type="date" data-val="true" data-val-required="From Date Require!">
+                        </div>
+
+                    </div>
+                    <div class="row mt-1 ">
+                        <div class="col-md-5">To Date:</div>
+
+                        <div class="col-md-7">
+                            <input class="form-control" name="p" id="to" placeholder="ToDate" type="date" data-val="true" data-val-required="To Date Require!">
+                        </div>
+
+                    </div>
+
+                    <div class="mt-2">
+                        <button type="submit" id="ok" class="btn btn-primary">Ok</button>
+                    </div>
+                </div>
+                <div>
+                </div>
+            </form>
+
+        </div>
+    </div>
+
+
+</div>
